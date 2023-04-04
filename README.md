@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arkarOnHub
 - 👀 I’m interested in Web Development and Programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
